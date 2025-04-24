@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+simple_openai_sdk_agent.egg-info/PKG-INFO
+simple_openai_sdk_agent.egg-info/SOURCES.txt
+simple_openai_sdk_agent.egg-info/dependency_links.txt
+simple_openai_sdk_agent.egg-info/requires.txt
+simple_openai_sdk_agent.egg-info/top_level.txt
