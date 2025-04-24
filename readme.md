@@ -16,7 +16,7 @@ A clean implementation of an AI agent using OpenAI's API with basic functionalit
 
 **Tech Stack:** Python, OpenAI SDK, OOP principles
 
-[View Code](/Simple_Agent_OpenAI_SDK)
+[View Code](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/simple_openai_sdk_agent)
 </details>
 
 <details>
@@ -32,7 +32,7 @@ Sophisticated AI agent with enhanced capabilities building on the simple version
 
 **Tech Stack:** Python, OpenAI SDK, Advanced OOP patterns
 
-[View Code](/Advanced_Agent_OpenAI_SDK)
+[View Code](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/advance_agent)
 </details>
 
 <details>
@@ -47,7 +47,7 @@ Beautiful data visualizations created from sample ABC Corporation dataset.
 
 **Tech Stack:** Python, Matplotlib/Seaborn, Pandas, OOP design
 
-[View Code](/Data_Visualization_Demo_ABC)
+[View Code](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/Data-Visulization)
 </details>
 
 <details>
@@ -63,7 +63,7 @@ Comprehensive data analysis pipeline for business insights.
 
 **Tech Stack:** Python, Pandas, NumPy, OOP architecture
 
-[View Code](/Data_Analysis_Demo_ABC)
+[View Code](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/Advance_Data_Analysis_Tool)
 </details>
 
 <details>
@@ -79,7 +79,7 @@ Text-based adventure game with RPG elements - all in your terminal!
 
 **Tech Stack:** Python, OOP game design patterns
 
-[View Code](/Command_Line_RPG)
+[View Code](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/Command_Line_RPG_Game)
 </details>
 
 ## 🗂️ Other Projects
@@ -89,11 +89,11 @@ Text-based adventure game with RPG elements - all in your terminal!
 
 Here are additional projects in this repository:
 
-1. [Banking System Simulation](/Banking_System)
-2. [E-commerce Platform Core](/Ecommerce_Core)
-3. [University Management System](/University_Management)
-4. [Weather App with API Integration](/Weather_App)
-5. [Chat Application Server](/Chat_Server)
+1. [Personal Library Manager](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/library-manager-with_OOPs)
+2. [Quiz App](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/quiz_app)
+3. [Time Zone](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/time_zone)
+4. [Todo List](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/todo_list)
+5. [Password Generator](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/password_generator)
 
 ...and many more!
 </details>
