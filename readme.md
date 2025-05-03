@@ -95,7 +95,7 @@ Here are additional projects in this repository:
 4. [Todo List](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/todo_list)
 5. [Password Generator](https://github.com/subhankaladi/Object_Oriented_Programming_Projects/tree/main/password_generator)
 
-...and many more!
+...and many more!           
 </details>
 
 ## 🛠️ How to Use
