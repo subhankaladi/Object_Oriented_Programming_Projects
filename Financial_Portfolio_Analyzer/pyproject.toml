@@ -1,7 +1,7 @@
 [project]
-name = "python-challenge-another-dollar"
+name = "Financial_Portfolio_Analyzer"
 version = "0.1.0"
-description = "Add your description here"
+description = "Real Time Stock Analyzer"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
