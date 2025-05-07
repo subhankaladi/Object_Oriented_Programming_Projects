@@ -1,7 +1,7 @@
 [project]
-name = "financial_portfolio_analyzer"
+name = "financial-portfolio-analyzer"
 version = "0.1.0"
-description = "Real Time Stock Analyzer"
+description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
