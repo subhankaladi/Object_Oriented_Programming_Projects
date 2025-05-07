@@ -1,5 +1,5 @@
 [project]
-name = "Financial_Portfolio_Analyzer"
+name = "financial_portfolio_analyzer"
 version = "0.1.0"
 description = "Real Time Stock Analyzer"
 readme = "README.md"
