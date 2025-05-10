@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Money Checker</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <h1>Pakistani Note Authenticity Checker</h1>
+  <form method="post" enctype="multipart/form-data">
+    <input type="file" name="file" accept="image/*" required>
+    <button type="submit">Check</button>
+  </form>
+  {% if result %}
+    <h2>Result: {{ result }} (Confidence: {{ '%.2f'|format(confidence) }})</h2>
+    <p>Watermark Detected: {{ watermark }}</p>
+    <p>Security Thread Detected: {{ thread }}</p>
+  {% endif %}
+</body>
+</html>
